@@ -1,0 +1,6 @@
+[server]
+enableCORS = false
+enableStaticFileServer = true
+
+[server.headers]
+Access-Control-Allow-Origin = "*"

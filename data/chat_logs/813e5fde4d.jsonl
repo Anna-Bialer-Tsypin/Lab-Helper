@@ -1,0 +1,5 @@
+{"role": "system", "content": "Conversation created", "time": "2025-09-16T11:20:08.078734", "meta": {"title": "Untitled", "version": 1}}
+{"role": "user", "content": "i spilled hf on my hand", "time": "2025-09-16T11:23:21.459818", "meta": {}}
+{"role": "assistant", "content": "I couldn't determine the material. Please either lock a material above, or start your message with `Material: <name | CAS | alias>`.", "time": "2025-09-16T11:23:21.503266", "meta": {"type": "guard_warn"}}
+{"role": "user", "content": "i spilled hf on my hand", "time": "2025-09-16T11:23:42.533501", "meta": {}}
+{"role": "assistant", "content": "(demo) I will answer using **HF SDS Sigma** and cite Section/Page from the retrieved SDS chunks.\n\n*Note:* Plug your agent call here.", "time": "2025-09-16T11:23:42.761970", "meta": {"material": "HF SDS Sigma", "tag": null, "k": 6}}

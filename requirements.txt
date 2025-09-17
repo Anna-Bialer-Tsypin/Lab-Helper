@@ -1,0 +1,30 @@
+streamlit==1.49.1
+langchain==0.3.27
+langchain-community==0.3.29
+langchain-google-genai==2.1.10
+chromadb==0.5.23
+langchain-community==0.3.29
+langchain-huggingface==0.1.0
+langchain-chroma==0.1.4
+langgraph
+langchain-openai
+
+# embeddings (local, no quota)
+sentence-transformers==3.3.1
+tokenizers==0.20.3
+rapidfuzz==3.10.1
+pytesseract
+Pillow
+PyMuPDF
+ocrmypdf
+# utils
+pypdf==6.0.0
+python-dotenv==1.1.1
+langsmith==0.4.27
+
+# numeric libs compatible with Streamlit on Py3.11
+numpy==1.26.4
+pandas==2.3.2
+pyarrow==21.0.0
+requests
+reportlab

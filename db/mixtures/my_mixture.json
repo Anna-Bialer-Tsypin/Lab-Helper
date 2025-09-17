@@ -1,0 +1,27 @@
+{
+    "name": "My Mixture",
+    "items": [
+        {
+            "name": "Sodium hypochlorite solution SDS Sogma",
+            "type": "liquid",
+            "stock_conc": 98.0,
+            "stock_unit": "%",
+            "added_ml": 300.0,
+            "final_unit": "%",
+            "molar_mass": 98.08,
+            "mode": "solve_final_conc",
+            "is_solvent": false
+        },
+        {
+            "name": "HYDROGEN-PEROXIDE 30pp Thermo Fisher",
+            "type": "liquid",
+            "stock_conc": 30.0,
+            "stock_unit": "%",
+            "added_ml": 100.0,
+            "final_unit": "%",
+            "molar_mass": 34.015,
+            "mode": "solve_final_conc",
+            "is_solvent": false
+        }
+    ]
+}
