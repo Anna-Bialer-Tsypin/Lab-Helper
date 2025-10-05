@@ -1,8 +1,6 @@
 # 🧠 Lab Helper – AI-Powered Lab Safety & SDS Assistant
 
-<p align="center">
-  <img src="logo.png" alt="Lab Helper Banner" width="220">
-</p>
+![Lab Helper](logo.png)
 
 ### Your intelligent laboratory companion for safer, smarter experiments.
 
